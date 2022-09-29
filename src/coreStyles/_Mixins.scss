@@ -1,0 +1,27 @@
+//sm
+@mixin media-sm {
+  @media(min-width: $sm-width) {
+    @content;
+  }
+}
+
+//tablet
+@mixin media-md {
+  @media(min-width: $md-width) {
+    @content;
+  }
+}
+
+//lg
+@mixin media-lg {
+  @media(min-width: $lg-width) {
+    @content;
+  }
+}
+
+//xl
+@mixin media-xl {
+  @media(min-width: $xl-width) {
+    @content;
+  }
+}

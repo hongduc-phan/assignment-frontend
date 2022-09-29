@@ -1,0 +1,41 @@
+$blue: #567AFF;
+$blue-light: #B2CAE8;
+$blue-bold: #385A64;
+$red: #FF4F5A;
+$red-bold: #D47A81;
+$gray: #ECECEC;
+$gray-light: #f9f9f9;
+$gray-bold: #929292;
+$black: #1A2E35;
+$white: #fff;
+
+
+//theme1
+//$primary: $red;
+$primary: $red;
+$primary-lighter: $red;
+$primary-darker: $red-bold;
+$primary-contrast: $white;
+
+$secondary: $gray;
+$secondary-lighter: $gray;
+$secondary-darker: $gray;
+$secondary-contrast: $black;
+
+$accent: $red;
+$accent-lighter: $red;
+$accent-darker: $red-bold;
+$accent-contrast: $white;
+
+$neutral: $white;
+$accent-lighter: $white;
+$accent-darker: $gray-light;
+$neutral-contrast: $black;
+
+
+//screens
+//min width
+$sm-width: 576px;
+$md-width: 768px;
+$lg-width: 922px;
+$xl-width: 1200px
