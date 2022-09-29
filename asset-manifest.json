@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2146a30b.chunk.css",
-    "main.js": "/static/js/main.cef41702.chunk.js",
-    "main.js.map": "/static/js/main.cef41702.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aa02365d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aa02365d.js.map",
-    "static/js/2.0538fcbd.chunk.js": "/static/js/2.0538fcbd.chunk.js",
-    "static/js/2.0538fcbd.chunk.js.map": "/static/js/2.0538fcbd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.52ead63f67ac5b37a3707f4aa917d328.js": "/precache-manifest.52ead63f67ac5b37a3707f4aa917d328.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2146a30b.chunk.css.map": "/static/css/main.2146a30b.chunk.css.map",
-    "static/js/2.0538fcbd.chunk.js.LICENSE.txt": "/static/js/2.0538fcbd.chunk.js.LICENSE.txt",
-    "static/js/main.cef41702.chunk.js.LICENSE.txt": "/static/js/main.cef41702.chunk.js.LICENSE.txt"
+    "main.css": "/assignment-frontend/static/css/main.2146a30b.chunk.css",
+    "main.js": "/assignment-frontend/static/js/main.610e4b2e.chunk.js",
+    "main.js.map": "/assignment-frontend/static/js/main.610e4b2e.chunk.js.map",
+    "runtime-main.js": "/assignment-frontend/static/js/runtime-main.0747d60b.js",
+    "runtime-main.js.map": "/assignment-frontend/static/js/runtime-main.0747d60b.js.map",
+    "static/js/2.9ab7b1e9.chunk.js": "/assignment-frontend/static/js/2.9ab7b1e9.chunk.js",
+    "static/js/2.9ab7b1e9.chunk.js.map": "/assignment-frontend/static/js/2.9ab7b1e9.chunk.js.map",
+    "index.html": "/assignment-frontend/index.html",
+    "precache-manifest.b4d103a6aefbca66da88649926191176.js": "/assignment-frontend/precache-manifest.b4d103a6aefbca66da88649926191176.js",
+    "service-worker.js": "/assignment-frontend/service-worker.js",
+    "static/css/main.2146a30b.chunk.css.map": "/assignment-frontend/static/css/main.2146a30b.chunk.css.map",
+    "static/js/2.9ab7b1e9.chunk.js.LICENSE.txt": "/assignment-frontend/static/js/2.9ab7b1e9.chunk.js.LICENSE.txt",
+    "static/js/main.610e4b2e.chunk.js.LICENSE.txt": "/assignment-frontend/static/js/main.610e4b2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa02365d.js",
-    "static/js/2.0538fcbd.chunk.js",
+    "static/js/runtime-main.0747d60b.js",
+    "static/js/2.9ab7b1e9.chunk.js",
     "static/css/main.2146a30b.chunk.css",
-    "static/js/main.cef41702.chunk.js"
+    "static/js/main.610e4b2e.chunk.js"
   ]
 }
